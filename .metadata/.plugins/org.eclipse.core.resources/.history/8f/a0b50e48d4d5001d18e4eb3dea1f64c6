@@ -15,6 +15,9 @@ public class ThreadMain {
 		myThread1.start();
 		thread.start();
 		
+//		myThread1.run();
+//		myThread2.run();
+		
 	}
 
 }

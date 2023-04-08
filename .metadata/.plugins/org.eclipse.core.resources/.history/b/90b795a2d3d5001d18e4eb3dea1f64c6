@@ -12,8 +12,11 @@ public class ThreadMain {
 		MyThread2 myThread2 = new MyThread2();
 		Thread thread = new Thread(myThread2);
 		
-		myThread1.start();
-		thread.start();
+//		myThread1.start();
+//		thread.start();
+		
+		myThread1.run();
+		myThread2.run();
 		
 	}
 
