@@ -1,0 +1,15 @@
+package com.jspiders.multithreading.threads;
+
+import com.jspiders.multithreading.resource.Account;
+
+public class Person1 extends Thread {
+	
+	Account account;
+	
+	@Override
+	public void run() {
+		account.depositAmount(5000);
+		account.withdrawAmount(3000);
+	}
+
+}
