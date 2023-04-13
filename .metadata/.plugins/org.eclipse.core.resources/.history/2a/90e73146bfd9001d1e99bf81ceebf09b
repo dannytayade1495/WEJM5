@@ -1,0 +1,19 @@
+package com.jspiders.multithreading.resource;
+
+public class Shop {
+	
+	int availableProducts;
+
+	public Shop(int availableProducts) {
+		this.availableProducts = availableProducts;
+	}
+	
+	public synchronized void orderProducts(int noOfProducts) {
+		if (noOfProducts > availableProducts) {
+			System.out.println(noOfProducts + " products not available..!!");
+			System.out.println("Please wait..!!");
+		}
+	}
+	
+
+}
