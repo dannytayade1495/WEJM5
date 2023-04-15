@@ -7,9 +7,13 @@
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread3"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="java.beans.PersistenceDelegate"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Person1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Person2"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.resource.Account"/>
+    <fullyQualifiedTypeName name="java.lang.Short"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.resource.Shop"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Customer"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Supplier"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>

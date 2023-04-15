@@ -1,5 +1,5 @@
 package com.jspiders.multithreading.threads;
 
-public class MyThread1 {
+public class Thread1 {
 
 }

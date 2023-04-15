@@ -1,0 +1,13 @@
+package com.jspiders.multithreading.threads;
+
+import com.jspiders.multithreading.resource.Resource;
+
+public class Thread2 extends Thread {
+	
+	Resource resource;
+
+	public Thread2(Resource resource) {
+		this.resource = resource;
+	}
+	
+}
