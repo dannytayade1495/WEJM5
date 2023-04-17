@@ -16,4 +16,7 @@
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Customer"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Supplier"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.resource.Resource"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread1"/>
+    <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread2"/>
 </qualifiedTypeNameHistroy>
