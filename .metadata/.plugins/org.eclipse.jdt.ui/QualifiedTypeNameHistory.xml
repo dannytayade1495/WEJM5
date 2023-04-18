@@ -19,4 +19,5 @@
     <fullyQualifiedTypeName name="com.jspiders.multithreading.resource.Resource"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread2"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
 </qualifiedTypeNameHistroy>
