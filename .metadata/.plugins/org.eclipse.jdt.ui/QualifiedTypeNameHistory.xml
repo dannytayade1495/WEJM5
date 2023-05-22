@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread2"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread3"/>
-    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
     <fullyQualifiedTypeName name="java.beans.PersistenceDelegate"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Person1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Person2"/>
@@ -19,5 +17,16 @@
     <fullyQualifiedTypeName name="com.jspiders.multithreading.resource.Resource"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.Thread2"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="com.jspiders.serialization.object.User"/>
     <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="com.jspiders.deserialization.object.User"/>
 </qualifiedTypeNameHistroy>

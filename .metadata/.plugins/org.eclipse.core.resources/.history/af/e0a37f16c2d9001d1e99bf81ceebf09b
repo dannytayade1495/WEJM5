@@ -1,5 +1,0 @@
-package com.jspiders.multithreading.threads;
-
-public class Supplier extends Thread {
-
-}
