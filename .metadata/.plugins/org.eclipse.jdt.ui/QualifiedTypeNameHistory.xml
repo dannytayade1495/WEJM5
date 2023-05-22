@@ -21,12 +21,13 @@
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.jspiders.serialization.object.User"/>
+    <fullyQualifiedTypeName name="com.jspiders.deserialization.object.User"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
-    <fullyQualifiedTypeName name="com.jspiders.serialization.object.User"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
-    <fullyQualifiedTypeName name="com.jspiders.deserialization.object.User"/>
+    <fullyQualifiedTypeName name="com.jspiders.serializationdeserialization.object.User"/>
 </qualifiedTypeNameHistroy>
