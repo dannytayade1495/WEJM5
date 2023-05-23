@@ -31,15 +31,7 @@ public class StudentDAO {
 		
 		entityTransaction.commit();
 		
-		if (entityManagerFactory != null) {
-			entityManagerFactory.close();
-		}
-		if (entityManager != null) {
-			entityManager.close();
-		}
-		if (entityTransaction.isActive()) {
-			entityTransaction.rollback();
-		}
+		
 		
 	}
 
