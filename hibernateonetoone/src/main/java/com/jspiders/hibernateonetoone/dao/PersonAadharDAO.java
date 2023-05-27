@@ -49,10 +49,9 @@ public class PersonAadharDAO {
 			aadhar1.setAadhar_no(123456789012L);
 			aadhar1.setDoi("01-05-2015");
 			
-			
 			person1.setAadhar(aadhar1);
 			manager.persist(person1);
-			aadhar1.setPerson(person1);
+//			aadhar1.setPerson(person1);
 			manager.persist(aadhar1);
 			
 			transaction.commit();

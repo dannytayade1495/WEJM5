@@ -14,7 +14,7 @@ public class AadharDTO {
 	private int id;
 	private long aadhar_no;
 	private String doi;
-	@OneToOne
-	private PersonDTO person;
+//	@OneToOne
+//	private PersonDTO person;
 
 }

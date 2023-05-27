@@ -37,13 +37,13 @@ public class EmployeeInsertDAO {
 			transaction.begin();
 
 			EmployeeDTO emp1 = new EmployeeDTO();
-			emp1.setId(1);
+//			emp1.setId(1);
 			emp1.setName("Sara");
 			emp1.setDesignation("Motivation");
 			emp1.setSalary(150);
 
 			EmployeeDTO emp2 = new EmployeeDTO();
-			emp2.setId(2);
+//			emp2.setId(2);
 			emp2.setName("Shubman");
 			emp2.setDesignation("Batsman");
 			emp2.setSalary(420);
