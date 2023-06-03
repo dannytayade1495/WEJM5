@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread2"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread1"/>
     <fullyQualifiedTypeName name="com.jspiders.multithreading.threads.MyThread3"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
     <fullyQualifiedTypeName name="javax.persistence.Query"/>
     <fullyQualifiedTypeName name="com.jspiders.jpql.dto.TrainerDTO"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
 </qualifiedTypeNameHistroy>

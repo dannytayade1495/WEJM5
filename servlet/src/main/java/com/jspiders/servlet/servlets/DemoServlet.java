@@ -22,9 +22,4 @@ public class DemoServlet extends HttpServlet {
 		writer.println("<h1>Hello from DemoServlet</h1>");
 	}
 
-	protected void doPost(HttpServletRequest request, 
-						HttpServletResponse response) 
-						throws ServletException, IOException {
-	}
-
 }
