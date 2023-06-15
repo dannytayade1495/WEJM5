@@ -14,4 +14,26 @@
     <fullyQualifiedTypeName name="com.jspiders.adpaterpattern.entity.Employee"/>
     <fullyQualifiedTypeName name="com.jspiders.adpaterpattern.main.AdapterMain"/>
     <fullyQualifiedTypeName name="com.jspiders.adpaterpattern.adapter.EmpEventAdapter"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcorexml.bean.StudentBean"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcorexml.bean.AadharBean"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcorexml.bean.PersonBean"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcorexml.bean.CompanyBean"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcorexml.bean.EmployeeBean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcoreannotations.config.StudentConfig"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcoreannotations.beans.StudentBean"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcoreannotations.beans.AadharBean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcoreannotations.config.PersonConfig"/>
+    <fullyQualifiedTypeName name="com.jspiders.springcoreannotations.beans.PersonBean"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
 </qualifiedTypeNameHistroy>
