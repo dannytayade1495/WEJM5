@@ -2,13 +2,20 @@
 	pageEncoding="UTF-8"%>
 <jsp:include page="NavBar.jsp" />
 <%
-String msg = (String)request.getAttribute("msg");
+String msg = (String) request.getAttribute("msg");
 %>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title>Add Student Page</title>
+<style type="text/css">
+body {
+	background-image:
+		url('https://www.xmple.com/wallpaper/linear-blue-white-highlight-gradient-1920x1080-c2-ffffff-e0ffff-l-50-a-165-f-21.svg');
+	background-size: 100%;
+}
+</style>
 </head>
 <body>
 	<div align="center">

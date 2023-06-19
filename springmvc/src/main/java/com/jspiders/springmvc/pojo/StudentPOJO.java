@@ -15,7 +15,7 @@ import lombok.Data;
 public class StudentPOJO {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.SEQUENCE)
+	@GeneratedValue(strategy = GenerationType.TABLE)
 	@Column(name = "stud_id")
 	private int id;
 	@Column(name = "stud_name")
