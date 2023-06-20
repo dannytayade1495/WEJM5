@@ -38,9 +38,16 @@ legend {
 }
 
 body {
+	/* background-color: gray; */
 	background-image:
 		url('https://www.xmple.com/wallpaper/linear-blue-white-highlight-gradient-1920x1080-c2-ffffff-e0ffff-l-50-a-165-f-21.svg');
 	background-size: 100%;
+}
+
+a {
+	background-size: 150cm; background-color : white;
+	color: black;
+	background-color: white;
 }
 </style>
 </head>
@@ -67,7 +74,7 @@ body {
 		<%
 		if (msg != null) {
 		%>
-		<h4><%=msg%></h4>
+		<h2><%=msg%></h2>
 		<%
 		}
 		%>

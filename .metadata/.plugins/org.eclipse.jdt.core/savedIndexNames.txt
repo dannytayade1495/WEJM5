@@ -107,6 +107,5 @@ INDEX VERSION 1.131+D:\WEJM5\.metadata\.plugins\org.eclipse.jdt.core
 1064304651.index
 33411953.index
 561723859.index
-485642199.index
 504623889.index
 4167817680.index

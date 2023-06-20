@@ -2,6 +2,8 @@ package com.jspiders.springmvc.controller;
 
 import java.util.List;
 
+import javax.servlet.http.HttpSession;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
@@ -22,9 +24,11 @@ public class AdminController {
 	@PostMapping("/login")
 	public String login(@RequestParam String username,
 						@RequestParam String password,
-						ModelMap map) {
+						ModelMap map, HttpSession session) {
 		AdminPOJO pojo = service.login(username, password);
 		if (pojo != null) {
+			session.setAttribute("login", pojo);
+			session.setMaxInactiveInterval(30);
 			return "Home";
 		}
 		map.addAttribute("msg", "Invalid credentials. Try again. ");
@@ -58,7 +62,8 @@ public class AdminController {
 	
 	//Logout controller
 	@GetMapping("/logout")
-	public String logout(ModelMap map) {
+	public String logout(ModelMap map, HttpSession session) {
+		session.invalidate();
 		map.addAttribute("msg", "Logged out successfully. ");
 		return "Login";
 	}
