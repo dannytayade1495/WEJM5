@@ -3824,3 +3824,413 @@ Caused by: java.lang.ExceptionInInitializerError: Cannot access defaults field o
 2023-06-20 09:06:09,944 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-06-20 09:06:09,947 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-06-20 09:06:09,947 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-21 16:13:23,528 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:13:23,555 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:13:23,560 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:13:23,560 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-21 16:15:06,287 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:06,287 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:15:06,289 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:06,289 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-21 16:15:52,292 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:52,292 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:15:52,294 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:15:52,295 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-21 16:16:07,989 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:16:07,997 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:16:07,999 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:16:07,999 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-21 16:17:55,978 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:17:55,979 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 16:17:55,981 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 16:17:55,981 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-26 08:15:19,465 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-26 08:15:23,983 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-26 08:15:26,987 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 08:15:27,002 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 08:15:27,010 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 08:15:27,010 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-26 09:18:08,415 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [1586])
+2023-06-26 09:18:08,444 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-06-26 09:18:08,446 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-06-26 09:18:08,447 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-06-26 09:18:08,447 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-06-26 09:18:08,447 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-06-26 09:18:08,447 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-06-26 09:18:08,448 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-06-26 09:18:08,448 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-06-26 09:18:08,449 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-06-26 09:18:08,449 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-06-26 09:18:08,450 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-06-26 09:18:08,450 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-06-26 09:18:08,450 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-06-26 09:18:08,451 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-06-26 09:18:08,451 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-06-26 09:18:08,451 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-06-26 09:18:08,451 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-06-26 09:18:08,452 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-06-26 09:18:08,452 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-06-26 09:18:08,453 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-06-26 09:18:08,453 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-06-26 09:18:08,454 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-06-26 09:18:08,455 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-06-26 09:18:08,455 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-06-26 09:18:08,456 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-06-26 09:18:08,456 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-06-26 09:18:08,457 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-06-26 09:18:08,457 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-06-26 09:18:08,458 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-06-26 09:18:08,458 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-06-26 09:18:08,458 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-06-26 09:18:08,459 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-06-26 09:18:08,459 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-06-26 09:18:08,460 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-06-26 09:18:08,460 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-06-26 09:18:08,461 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-06-26 09:18:08,461 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-06-26 09:18:08,462 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-06-26 09:18:08,463 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-06-26 09:18:08,471 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [944])
+2023-06-26 09:18:08,475 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-06-26 09:18:08,475 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [1664])
+2023-06-26 09:18:08,476 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-06-26 09:18:08,476 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [959])
+2023-06-26 09:18:08,480 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-06-26 09:18:08,481 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [1455])
+2023-06-26 09:18:08,488 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Dhananjay\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-06-26 09:18:08,500 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Dhananjay\AppData\Local\Temp\m2e-archetypeGenerator9026850847474394069":
+2023-06-26 09:18:08,517 [Worker-25: Launching mavenrun-f8760c1b-3cf1-413d-adcc-9e6ea2f15419] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.jspiders -DartifactId=springrest -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jspiders.springrest -DoutputDirectory=D:\WEJM5 -B -Dstyle.color=always -U archetype:generate
+2023-06-26 09:18:25,267 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\WEJM5\springrest\pom.xml
+2023-06-26 09:18:27,969 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jspiders:springrest:0.0.1-SNAPSHOT @ D:\WEJM5\springrest\pom.xml.
+2023-06-26 09:18:28,910 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springrest/src/main/java
+2023-06-26 09:18:28,911 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springrest/src/test/java
+2023-06-26 09:18:30,146 [Worker-23: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-06-26 09:18:30,892 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:18:30,892 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\main\resources
+2023-06-26 09:18:30,897 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:18:30,898 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:20:02,988 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:02,988 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\main\resources
+2023-06-26 09:20:02,991 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:02,991 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:20:10,933 [Worker-28: Building Project springrest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:10,934 [Worker-28: Building Project springrest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\main\resources
+2023-06-26 09:20:10,943 [Worker-28: Building Project springrest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:10,943 [Worker-28: Building Project springrest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:20:33,809 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:33,813 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:20:33,817 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:33,818 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:20:47,997 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:48,009 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:20:48,012 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:20:48,012 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:21:02,223 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:21:02,224 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:21:02,226 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:21:02,226 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:22:27,711 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:22:27,711 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:22:27,715 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:22:27,716 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:23:43,785 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 19.0.1+10
+2023-06-26 09:23:43,814 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-06-26 09:23:43,851 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1c2b44bf{/help,null,AVAILABLE}
+2023-06-26 09:23:43,881 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6932116b{HTTP/1.1, (http/1.1)}{127.0.0.1:56960}
+2023-06-26 09:23:43,998 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@f899b95{STARTING}[10.0.12,sto=0] @4195693ms
+2023-06-26 09:24:01,720 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:24:01,720 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:24:01,725 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:24:01,725 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:24:10,596 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:24:10,597 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:24:10,599 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:24:10,599 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:24:17,772 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:24:17,773 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:24:17,777 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:24:17,778 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:25:22,813 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:25:22,813 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:25:22,815 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:25:22,815 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:26:21,431 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:26:21,431 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:26:21,436 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:26:21,436 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:28:25,987 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jspiders:springrest:0.0.1-SNAPSHOT @ D:\WEJM5\springrest\pom.xml.
+2023-06-26 09:28:26,084 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-26 09:28:26,108 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-26 09:28:26,689 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:26,689 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:28:26,692 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:26,692 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:28:26,695 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springrest
+2023-06-26 09:28:26,696 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springrest
+2023-06-26 09:28:26,701 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:27,905 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:27,908 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:28:27,922 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:27,922 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:28:31,247 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jspiders:springrest:0.0.1-SNAPSHOT @ D:\WEJM5\springrest\pom.xml.
+2023-06-26 09:28:31,351 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-26 09:28:31,490 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:31,490 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:28:31,493 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:28:31,493 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:28:31,494 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springrest
+2023-06-26 09:28:31,494 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springrest
+2023-06-26 09:28:31,499 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:30,810 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:30,810 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:32:30,813 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:30,813 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:32:43,254 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:43,255 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:32:43,265 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:43,265 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:32:53,160 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:53,160 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:32:53,162 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:32:53,162 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:33:02,466 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:33:02,467 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:33:02,471 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:33:02,471 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:36:22,569 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:36:22,569 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:36:22,574 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:36:22,574 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:44:41,777 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jspiders:springrest:0.0.1-SNAPSHOT @ D:\WEJM5\springrest\pom.xml.
+2023-06-26 09:44:41,886 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-26 09:44:41,901 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-26 09:44:42,159 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:42,160 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:44:42,163 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:42,163 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:44:42,164 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of springrest
+2023-06-26 09:44:42,164 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for springrest
+2023-06-26 09:44:42,167 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:43,319 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:43,320 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:44:43,323 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:43,323 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:44:52,993 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:52,993 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:44:52,995 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:52,995 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:44:55,062 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:55,062 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:44:55,064 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:55,064 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:44:57,082 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:57,082 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-26 09:44:57,084 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:44:57,084 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:45:36,999 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:45:37,000 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:45:37,003 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:45:37,003 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:46:08,720 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:08,721 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:46:08,724 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:08,725 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:46:18,837 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:18,838 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:46:18,840 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:18,840 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:46:25,543 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:25,544 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:46:25,545 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:25,546 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:46:35,632 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:35,633 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:46:35,635 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:35,635 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:46:53,999 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:54,000 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:46:54,004 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:46:54,004 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:47:04,305 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:47:04,306 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:47:04,312 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:47:04,313 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:47:12,676 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:47:12,677 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:47:12,680 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:47:12,680 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:47:20,379 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:47:20,379 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:47:20,383 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:47:20,384 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:48:41,431 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:48:41,432 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:48:41,433 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:48:41,433 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:51:02,246 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:51:02,246 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:51:02,249 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:51:02,249 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:51:11,583 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:51:11,584 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:51:11,588 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:51:11,589 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:51:35,017 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:51:35,017 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:51:35,023 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:51:35,024 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:55:30,892 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:55:30,893 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:55:30,896 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:55:30,896 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:55:51,021 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:55:51,022 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:55:51,024 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:55:51,024 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:59:23,321 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:59:23,322 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:59:23,324 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:59:23,324 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:59:51,820 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:59:51,821 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:59:51,823 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:59:51,823 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 09:59:53,871 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:59:53,873 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 09:59:53,875 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 09:59:53,875 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 10:00:01,276 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:00:01,276 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 10:00:01,278 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:00:01,278 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 10:00:14,726 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:00:14,727 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 10:00:14,729 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:00:14,729 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 10:02:15,449 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:02:15,450 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 10:02:15,452 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:02:15,452 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 10:03:36,352 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:03:36,352 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-26 10:03:36,354 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-26 10:03:36,355 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-26 10:08:22,092 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@f899b95{STOPPING}[10.0.12,sto=0]
+2023-06-26 10:08:22,101 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6932116b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-06-26 10:08:22,113 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1c2b44bf{/help,null,STOPPED}
+2023-06-27 08:33:51,395 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.12; built: 2022-09-14T01:54:40.076Z; git: 408d0139887e27a57b54ed52e2d92a36731a7e88; jvm 19.0.1+10
+2023-06-27 08:33:51,663 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-06-27 08:33:51,706 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3ffcb133{/help,null,AVAILABLE}
+2023-06-27 08:33:51,739 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@577ba9c4{HTTP/1.1, (http/1.1)}{127.0.0.1:59145}
+2023-06-27 08:33:51,825 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@5ab05c8d{STARTING}[10.0.12,sto=0] @757454ms
+2023-06-27 08:35:09,930 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-27 08:35:12,727 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:12,784 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:35:12,844 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:12,848 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 08:35:16,162 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.32 has been relocated to com.mysql:mysql-connector-j:jar:8.0.32: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2023-06-27 08:35:16,198 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:16,204 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:35:16,210 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:16,211 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springmvc\src\test\resources
+2023-06-27 08:35:16,292 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:16,293 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-27 08:35:16,295 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:16,295 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 08:35:28,757 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:28,770 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:35:28,774 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:35:28,774 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 08:38:16,585 [Worker-24: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-27 08:38:25,182 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:38:25,183 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:38:25,185 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:38:25,185 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 08:38:45,473 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:38:45,474 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:38:45,477 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:38:45,477 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 08:42:53,661 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:42:53,661 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:42:53,663 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:42:53,663 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 08:58:28,575 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:58:28,576 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 08:58:28,579 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 08:58:28,579 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:01:52,730 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:01:52,730 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:01:52,732 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:01:52,732 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:05:34,571 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:05:34,571 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:05:34,573 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:05:34,573 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:06:20,237 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:06:20,240 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:06:20,245 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:06:20,245 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:06:22,883 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:06:22,885 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:06:22,891 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:06:22,891 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:08:00,790 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:08:00,790 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:08:00,792 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:08:00,793 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:15:52,163 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:15:52,163 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:15:52,165 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:15:52,165 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:16:04,423 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:16:04,423 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:16:04,426 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:16:04,426 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:16:55,725 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:16:55,725 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:16:55,726 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:16:55,726 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:18:10,324 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:18:10,325 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:18:10,327 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:18:10,327 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:18:46,475 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:18:46,475 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:18:46,478 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:18:46,478 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:19:09,478 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:19:09,479 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:19:09,484 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:19:09,485 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:19:14,602 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:19:14,603 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:19:14,605 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:19:14,605 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:25:00,887 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:25:00,888 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:25:00,889 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:25:00,889 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:27:27,465 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:27:27,465 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:27:27,466 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:27:27,466 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:27:36,282 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:27:36,283 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:27:36,284 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:27:36,284 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:29:48,027 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:29:48,028 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:29:48,029 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:29:48,029 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:29:57,883 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:29:57,884 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:29:57,886 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:29:57,887 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:32:38,828 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:32:38,829 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:32:38,831 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:32:38,832 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
+2023-06-27 09:35:45,463 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:35:45,464 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-27 09:35:45,466 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-27 09:35:45,467 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\WEJM5\springrest\src\test\resources
