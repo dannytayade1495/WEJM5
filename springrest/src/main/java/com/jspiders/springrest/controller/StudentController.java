@@ -44,10 +44,10 @@ public class StudentController {
 
 	}
 	
-	@GetMapping(path = "/search",
+	@GetMapping(path = "/search{id}",
 				produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<StudentResponse> search(@RequestBody StudentPOJO pojo){
-		StudentPOJO student = service.searchStudent(pojo.getId());
+	public ResponseEntity<StudentResponse> search(@PathVariable int id){
+		StudentPOJO student = service.searchStudent(id);
 		//Success flow
 		if (student != null) {
 			return new ResponseEntity<StudentResponse>
