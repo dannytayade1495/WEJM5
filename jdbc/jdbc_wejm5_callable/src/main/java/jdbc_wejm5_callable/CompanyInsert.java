@@ -43,6 +43,7 @@ public class CompanyInsert {
 			System.out.println("Failed to Insert");
 		}
 		connection.close();
+		scanner.close();
 	}
 
 }

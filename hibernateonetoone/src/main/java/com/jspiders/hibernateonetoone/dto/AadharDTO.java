@@ -2,7 +2,6 @@ package com.jspiders.hibernateonetoone.dto;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.OneToOne;
 
 import lombok.Data;
 
